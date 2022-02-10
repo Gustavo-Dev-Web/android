@@ -128,18 +128,17 @@ main img{
 
 div.video{
     background-color: rgba(255, 255, 255, 0);
-    margin: 0px 5px 30px 5px;
     padding:20px 20px 39% 20px;
     position: relative;
+    margin-bottom: 40px;
 }   
 
 div.video > iframe{
- position:absolute ;
- box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.315);
- top: 5%;
- left:19%;
- width: 59.8%;
- height: 80%;
+    position:absolute ;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.315);
+    width: 560px;
+    height:315px;
+    left: 100px ;
 }
 
 
