@@ -131,13 +131,16 @@ div.video{
     padding:20px 20px 39% 20px;
     position: relative;
     margin-bottom: 40px;
+    height:"315";
+    width: "560";
+
 }   
 
 div.video > iframe{
     position:absolute ;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.315);
-    width: 560px;
-    height:315px;
+    width: 73%;
+    height:100%;
     left: 100px ;
 }
 
